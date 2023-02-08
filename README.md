@@ -8,6 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Espertty">
+    <img height="180em" src="https://cdn.discordapp.com/attachments/1072910138446459001/1072918557513494578/bannerLinkedin.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Espertty&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espertty&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
