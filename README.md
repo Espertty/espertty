@@ -11,6 +11,7 @@
     <img height="180em" src="https://cdn.discordapp.com/attachments/1072910138446459001/1072918557513494578/bannerLinkedin.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Espertty&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espertty&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Espertty-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
