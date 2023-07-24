@@ -20,7 +20,7 @@
   <img align="center" alt="Espertty-Docker" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Espertty-Docker" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Espertty-Docker" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  
+  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
    ##
    
    <div> 
